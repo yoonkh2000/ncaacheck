@@ -41,7 +41,9 @@ sorted_x = sorted(hash.items(), key=operator.itemgetter(1))
 index = 1
 
 with open('./readme.md', 'wb') as csvfile:
-    writer = csv.writer(csvfile)
+    writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(['index|filename|score'])
+    writer.writerow(['-----|-----|-----'])
     for row in sorted_x:
-        writer.writerow([str(index), str(row[0]), str(row[1])])
+        writer.writerow([str(index) + '|' + str(row[0]) + '|' + str(row[1])])
         index = index + 1
