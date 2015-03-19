@@ -40,7 +40,7 @@ sorted_x = sorted(hash.items(), key=operator.itemgetter(1))
 
 index = 1
 
-with open('./output.csv', 'wb') as csvfile:
+with open('./readme.md', 'wb') as csvfile:
     writer = csv.writer(csvfile)
     for row in sorted_x:
         writer.writerow([str(index), str(row[0]), str(row[1])])
