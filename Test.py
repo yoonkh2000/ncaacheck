@@ -42,6 +42,7 @@ index = 1
 
 with open('./readme.md', 'wb') as csvfile:
     writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
+    writer.writerow(['Please see exact score at [Kaggle March Machine Learning Mania 2015 Leaderboard. ](https://www.kaggle.com/c/march-machine-learning-mania-2015/leaderboard)'])
     writer.writerow(['index|filename|score'])
     writer.writerow(['-----|-----|-----'])
     for row in sorted_x:
