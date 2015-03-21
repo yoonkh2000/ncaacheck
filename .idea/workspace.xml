@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ncaacheck$Test.coverage" NAME="Test Coverage Results" MODIFIED="1426900642384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ncaacheck$Test.coverage" NAME="Test Coverage Results" MODIFIED="1426908289307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -59,8 +59,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5391705" vertical-offset="4521" max-vertical-offset="9345">
-              <caret line="317" column="8" selection-start-line="317" selection-start-column="4" selection-end-line="317" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.47004607" vertical-offset="2121" max-vertical-offset="9345">
+              <caret line="155" column="16" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -85,8 +85,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.366667" vertical-offset="49" max-vertical-offset="570">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state vertical-scroll-proportion="-10.866667" vertical-offset="109" max-vertical-offset="570">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -952,8 +952,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.366667" vertical-offset="49" max-vertical-offset="570">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state vertical-scroll-proportion="-10.866667" vertical-offset="109" max-vertical-offset="570">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -966,8 +966,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5391705" vertical-offset="4521" max-vertical-offset="9345">
-          <caret line="317" column="8" selection-start-line="317" selection-start-column="4" selection-end-line="317" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.47004607" vertical-offset="2121" max-vertical-offset="9345">
+          <caret line="155" column="16" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="16" />
           <folding />
         </state>
       </provider>
