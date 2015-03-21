@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ncaacheck$Test.coverage" NAME="Test Coverage Results" MODIFIED="1426908289307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ncaacheck$Test.coverage" NAME="Test Coverage Results" MODIFIED="1426979803215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -46,21 +46,34 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-834.0" vertical-offset="3975" max-vertical-offset="34275">
-              <caret line="1933" column="18" selection-start-line="1933" selection-start-column="18" selection-end-line="1933" selection-end-column="18" />
+            <state vertical-scroll-proportion="-56.5" vertical-offset="2490" max-vertical-offset="34275">
+              <caret line="279" column="19" selection-start-line="279" selection-start-column="19" selection-end-line="279" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47004607" vertical-offset="2121" max-vertical-offset="9345">
-              <caret line="155" column="16" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="16" />
+            <state vertical-scroll-proportion="-36.842106" vertical-offset="0" max-vertical-offset="9345">
+              <caret line="140" column="8" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zach-b_154895_1343248.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/pred/zach-b_154895_1343248.csv">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="566.5" vertical-offset="16995" max-vertical-offset="34275">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,14 +92,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="result.csv" pinned="false" current-in-tab="false">
+      <file leaf-file-name="result.csv" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Data/result.csv">
           <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.866667" vertical-offset="109" max-vertical-offset="570">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.79262674" vertical-offset="196" max-vertical-offset="630">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -936,24 +949,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data/pred/zach-b_154895_1343200.csv">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-68.42733" vertical-offset="31545" max-vertical-offset="34275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/pred/zach-b_154895_1343248.csv">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="566.5" vertical-offset="16995" max-vertical-offset="34275">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data/pred/mt-everest_152781_1340319.csv">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-834.0" vertical-offset="3975" max-vertical-offset="34275">
-          <caret line="1933" column="18" selection-start-line="1933" selection-start-column="18" selection-end-line="1933" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/result.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.866667" vertical-offset="109" max-vertical-offset="570">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        <state vertical-scroll-proportion="-56.5" vertical-offset="2490" max-vertical-offset="34275">
+          <caret line="279" column="19" selection-start-line="279" selection-start-column="19" selection-end-line="279" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -966,8 +990,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47004607" vertical-offset="2121" max-vertical-offset="9345">
-          <caret line="155" column="16" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="16" />
+        <state vertical-scroll-proportion="-36.842106" vertical-offset="0" max-vertical-offset="9345">
+          <caret line="140" column="8" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/result.csv">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79262674" vertical-offset="196" max-vertical-offset="630">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
